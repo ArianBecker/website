@@ -1,0 +1,142 @@
+/*************** TAG SELECTORS ***************/
+
+body {
+    background-color: #4C6966;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+div {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    text-align: center;
+    color: white;
+}
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 10px;
+    size: 0px;
+    width: 10%;
+    border-color: #A3D4CF;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-after: 0px;
+    font-family: Arial;
+    font-family: Merriweather;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    padding-bottom: 40px;
+    font-family: Merriweather;
+    font-size: 2rem
+}
+
+p {
+    margin: 0px;
+}
+
+td {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+table {
+    vertical-align: middle;
+    color: white;
+}
+/*************** CLASS SELECTORS ***************/
+
+.body_table{
+    margin: auto;
+}
+
+.contact {
+    padding-bottom: 50px;
+    font-family: Merriweather;
+    font-size: 2rem
+    }
+
+/*************** ID SELECTORS ***************/
+
+#a_student{
+    margin: auto;
+    position: absolute;
+    top: 180px;
+    left: 47.5%;
+
+}
+
+#cloud_1 {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+#cloud_2 {
+    position: absolute;
+    left: 300px;
+    top: 150px;
+}
+
+#hello {
+    position: relative;
+    padding-top: 90px;
+    text-align: center;
+    background-color: #A3D4CF;
+}
+
+#im-arian {
+    margin-bottom: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 75px
+}
+
+#options {
+    background-color: #4C6966;
+    width: 100%
+}
+
+#propic {
+    height: 75px;
+    margin-left: 75px;
+    padding: 0px;
+}
+
+#name_title{
+    display: inline-block;
+    color: white;
+    font-family: 'inter', sans-serif;
+
+}
+
+#mountain {
+    height: 200;
+}
+
+#skills {
+    background-color: #4C6966
+    padding-top: 50px;
+}
+
+#skills_table {
+    margin: auto;
+}
+
+#myskills {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
